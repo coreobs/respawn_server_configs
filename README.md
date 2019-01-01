@@ -1,2 +1,2 @@
 # respawn_hl_configs
-Official configs for Respawn Highlander League in AUS / NZ / Asia.
+Official configs for Respawn League in AUS / NZ / Asia.
