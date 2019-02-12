@@ -1,8 +1,8 @@
-// Whitelist generated at Tue, 01 Jan 2019 11:31:02 +0100
-// Custom Whitelist ID: 9447
+// Whitelist generated at Tue, 12 Feb 2019 12:32:20 +0100
+// Whitelist: Respawn League Highlander (Season 2) (ID: 9447)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/9447
+//	https://whitelist.tf/respawn_hl_s2
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -1443,7 +1443,7 @@
 	"The Upgrade"							"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 2899) ---------------------\\
+	//--------------------- Miscs (Total: 2936) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -2545,6 +2545,12 @@
 	"ETF2L Ultiduo 6 Gold Medal"					"1"
 	"ETF2L Ultiduo 6 Participation Medal"				"1"
 	"ETF2L Ultiduo 6 Silver Medal"					"1"
+	"Eu Mixes 1st Place Cup 1"					"1"
+	"Eu Mixes 2nd Place Cup 1"					"1"
+	"Eu Mixes 3rd Place Cup 1"					"1"
+	"Eu Mixes Participant Cup 1"					"1"
+	"Eu Mixes Playoff Cup 1"					"1"
+	"Eu Mixes Staff Cup 1"						"1"
 	"Faerie Solitaire Pin"						"1"
 	"FBTF Cup 6v6 Barts Rimet 1st Place Season 3"			"1"
 	"FBTF Cup 6v6 Barts Rimet 1st Place Season 4"			"1"
@@ -2685,6 +2691,11 @@
 	"Journey to the East 2nd Place"					"1"
 	"Journey to the East 3rd Place"					"1"
 	"Journey to the East Participant"				"1"
+	"KnightComp Bronze Medal Season 1"				"1"
+	"KnightComp Gold Medal Season 1"				"1"
+	"KnightComp Helper Season 1"					"1"
+	"KnightComp Participant Season 1"				"1"
+	"KnightComp Silver Medal Season 1"				"1"
 	"LAN Downunder 1st Place 2018"					"1"
 	"LAN Downunder 2nd Place 2018"					"1"
 	"LAN Downunder 3rd Place 2018"					"1"
@@ -2824,10 +2835,15 @@
 	"Moscow LAN Helper Summer 2018"					"1"
 	"Moscow LAN Participant Summer 2018"				"1"
 	"NewbiDuo Cup 1st Place Summer 2018"				"1"
+	"NewbiDuo Cup 1st Place Winter 2019"				"1"
 	"NewbiDuo Cup 2nd Place Summer 2018"				"1"
+	"NewbiDuo Cup 2nd Place Winter 2019"				"1"
 	"NewbiDuo Cup 3rd Place Summer 2018"				"1"
+	"NewbiDuo Cup 3rd Place Winter 2019"				"1"
 	"NewbiDuo Cup Helper Summer 2018"				"1"
+	"NewbiDuo Cup Helper Winter 2019"				"1"
 	"NewbiDuo Cup Participant Summer 2018"				"1"
+	"NewbiDuo Cup Participant Winter 2019"				"1"
 	"Newbie Highlander Cup Bronze Medal Season 2"			"1"
 	"Newbie Highlander Cup Bronze Medal Season 4"			"1"
 	"Newbie Highlander Cup Gold Medal Season 2"			"1"
@@ -3137,6 +3153,22 @@
 	"Ready Steady Pan Third Place Season 2"				"1"
 	"Ready Steady Pan Third Place Season 4"				"1"
 	"Ready Steady Pan Winner Season 3"				"1"
+	"Respawn League ASIA 4v4 1st Place Season 1"			"1"
+	"Respawn League ASIA 4v4 2nd Place Season 1"			"1"
+	"Respawn League ASIA 4v4 3rd Place Season 1"			"1"
+	"Respawn League ASIA 4v4 Participant Season 1"			"1"
+	"Respawn League ASIA Highlander 1st Place Season 1"		"1"
+	"Respawn League ASIA Highlander 2nd Place Season 1"		"1"
+	"Respawn League ASIA Highlander 3rd Place Season 1"		"1"
+	"Respawn League ASIA Highlander Participant Season 1"		"1"
+	"Respawn League AUS/NZ 4v4 1st Place Season 1"			"1"
+	"Respawn League AUS/NZ 4v4 2nd Place Season 1"			"1"
+	"Respawn League AUS/NZ 4v4 3rd Place Season 1"			"1"
+	"Respawn League AUS/NZ 4v4 Participant Season 1"		"1"
+	"Respawn League AUS/NZ Highlander 1st Place Season 2"		"1"
+	"Respawn League AUS/NZ Highlander 2nd Place Season 2"		"1"
+	"Respawn League AUS/NZ Highlander 3rd Place Season 2"		"1"
+	"Respawn League AUS/NZ Highlander Participant Season 2"		"1"
 	"Respawn League Highlander 1st Place Season 1"			"1"
 	"Respawn League Highlander 2nd Place Season 1"			"1"
 	"Respawn League Highlander 3rd Place Season 1"			"1"
@@ -3235,6 +3267,11 @@
 	"Special Snowflake 2016"					"1"
 	"Spectral Snowflake"						"1"
 	"Spirit Of Giving"						"1"
+	"Streamer Cup Bronze Medal Cup 1"				"1"
+	"Streamer Cup Gold Medal Cup 1"					"1"
+	"Streamer Cup Participant Cup 1"				"1"
+	"Streamer Cup Silver Medal Cup 1"				"1"
+	"Streamer Cup Staff Cup 1"					"1"
 	"Summer Shades"							"1"
 	"Terror-antula"							"1"
 	"TF2Connexion Division 1 Bronze Medal Season 14"		"1"
