@@ -1,4 +1,4 @@
-# respawn_hl_configs
+# Respawn League Server Configuration Files
 Official configs for Respawn League in AUS / NZ / Asia.
 
 https://whitelist.tf/respawn_hl_s2
