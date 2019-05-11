@@ -1,5 +1,5 @@
-// Whitelist generated at Thu, 09 May 2019 16:56:58 +0200
-// Whitelist: Respawn League 4v4 (Season 2) (ID: 9969)
+// Whitelist generated at Sat, 11 May 2019 08:36:48 +0200
+// Whitelist: Respawn League 4v4 (Season 2) (ID: 9975)
 
 // Share or view this whitelist:
 //	https://whitelist.tf/respawn_4v4_s2
@@ -34,6 +34,8 @@
 // Blocked weapons for Engineer
 // - Secondary
 //  * Short Circuit
+// - Melee
+//  * Gunslinger
 
 // Blocked weapons for Medic
 // - Secondary
@@ -55,7 +57,7 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 121) -----------------\\
+	//---------------- Allowed weapons (Total: 120) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The B.A.S.E. Jumper"						"1"
@@ -148,7 +150,6 @@
 	//__________________________ Engineer ___________________________\\
 	"The Eureka Effect"						"1"
 	"The Frontier Justice"						"1"
-	"The Gunslinger"						"1"
 	"The Jag"							"1"
 	"The Pomson 6000"						"1"
 	"The Rescue Ranger"						"1"
@@ -513,7 +514,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 17) -------------\\
+	//------------- Blocked weapons/reskins (Total: 18) -------------\\
 	//____________________________ Scout ____________________________\\
 	"Crit-a-Cola"							"0"
 	"Mad Milk"							"0"
@@ -526,6 +527,7 @@
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
 	//__________________________ Engineer ___________________________\\
+	"The Gunslinger"						"0"
 	"The Short Circuit"						"0"
 	//____________________________ Medic ____________________________\\
 	"The Quick-Fix"							"0"
